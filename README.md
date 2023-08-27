@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.dropbox.com/scl/fi/b2zmz5n7d4pfrzlfaxdme/Web103.gif?rlkey=nd5grtg6jxv9sif31qnkv67tf&dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with EZGIF
